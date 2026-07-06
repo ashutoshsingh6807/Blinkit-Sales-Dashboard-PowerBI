@@ -20,5 +20,4 @@
 - Line Chart
 
 ## Dashboard Preview
-
-(dashboard.png)
+![Blinkit Dashboard](dashboard.png)
